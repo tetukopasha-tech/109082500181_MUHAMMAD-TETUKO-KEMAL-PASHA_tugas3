@@ -37,7 +37,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA/blob/main/modul1/output/Cuplikan%20layar%202026-03-14%20053938.png
 [penjelasan] = PROGRAM INI MENJELASKAN MENYIMPAN VARIABEL SETIAP TEMPATNYA SAMA SEPERTI RETURN MATERI BARU 
 
 ### 2. [Soal]
@@ -71,7 +71,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA/blob/main/modul1/output/Cuplikan%20layar%202026-03-13%20010028.png
 [penjelasan] = PROGRAM MENJELASKAN TENTANG PERULANGAN WARNA
 
 ### 3. [Soal]
@@ -113,5 +113,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA/blob/main/modul1/output/Cuplikan%20layar%202026-03-14%20054358.png
 [penjelasan] = MENJELASKAN PARSEL YANG SESUAI DENGAN DATANYA
