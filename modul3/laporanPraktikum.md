@@ -41,7 +41,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA_tugas3/blob/main/modul3/output/Cuplikan%20layar%202026-03-20%20232447.png
 [penjelasan]
  Program Go tersebut menghitung permutasi dan kombinasi menggunakan fungsi faktorial.
 
@@ -78,7 +78,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA_tugas3/blob/main/modul1/output/Cuplikan%20layar%202026-03-13%20010028.png
+![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA_tugas3/blob/main/modul3/output/Cuplikan%20layar%202026-03-20%20232305.png
 [penjelasan]
 program menjelaskan fungsi f lalu menghasilkan gabungan seperti pada code
 
@@ -125,6 +125,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1]https://github.com/tetukopasha-tech/109082500181_MUHAMMAD-TETUKO-KEMAL-PASHA_tugas3/blob/main/modul3/output/Cuplikan%20layar%202026-03-20%20234418.png
 [penjelasan]
 program menjelaskan mengecek titik lingkaran dari titik pusat
